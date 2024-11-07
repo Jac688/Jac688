@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jack Xue from UIC
+- 👋 Hi, I’m Jack Xue from HKUST
 - 👀 I’m major in data science and nlp
 - 🌱 I’m currently learning deep learning and entity linking of (Knowledge graph) KG
 - 📫 How to reach me: shaojiejack@foxmail.com 
